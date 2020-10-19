@@ -1,0 +1,17 @@
+{
+    "oyo_claims":{
+        "table" : "oyo_claims",
+        "schema" : "datamart_acommodation",
+        "column" : "policy_activation_time"
+    },
+    "oyo_master_transaction":{
+        "table" : "oyo_master_transaction",
+        "schema" : "datamart_acommodation",
+        "column" : "policies_created_time"
+    },
+    "oyo_revised":{
+        "table" : "oyo_revised",
+        "schema" : "datamart_acommodation",
+        "column" : "policy_activation_time"
+    }
+}
